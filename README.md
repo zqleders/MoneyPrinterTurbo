@@ -401,3 +401,5 @@ Trying to load the model directly from the local cache, if it exists.
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=harry0703/MoneyPrinterTurbo&type=Date)](https://star-history.com/#harry0703/MoneyPrinterTurbo&Date)
+
+## 教学：https://www.youtube.com/watch?v=adpwuqRi4ws
